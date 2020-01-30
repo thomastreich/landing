@@ -1,0 +1,83 @@
+.big_phrase {
+text-align: center;
+font-size: 25px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
+
+#container {
+  background-image: url('https://www.boutique-univers-esoterique.com/images/bougie_rituel_blanc.jpg');
+  width: 1400px;
+  height: 320px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  background-size: cover;
+  position: relative;
+  padding: 0px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.contain_apply {
+
+  box-shadow: 6px 9px 22px -1px rgba(0,0,0,0.75);
+  width: 300px;
+  height: 300px;
+  text-align: center;
+}
+
+.contain_apply p {
+  padding: 10px 36px;
+}
+
+.photo_need {
+  height: 100px;
+  margin-top: 10px;
+}
+
+/*.apply_card {
+  background-image: url('../../images/apply.svg');
+  width: 150px;
+  height: 120px;
+  color: black;
+  font-size: 25px;
+  background-size: cover;
+  box-shadow: 6px 9px 22px -1px rgba(0,0,0,0.75);
+  position: absolute;
+  top: 5px;
+  left: 70px;
+  }*/
+
+/*.apply_resume {
+  position: absolute;
+  top: 100px;
+  right: 35px;
+}
+
+.resume {
+  position: absolute;
+  font-size: 20px;
+  top: 160px;
+  right: 30px;
+}*/
+
+.learn_code {
+/*  background-image: url('../../images/learn.svg');
+*/  width: 150px;
+  height: 120px;
+  color: black;
+  font-size: 25px;
+  background-size: cover;
+  box-shadow: 6px 9px 22px -1px rgba(0,0,0,0.75);
+}
+
+.build_product {
+  background-image: url('../../images/product.svg');
+  width: 150px;
+  height: 120px;
+  color: black;
+  font-size: 25px;
+  background-size: cover;
+  box-shadow: 6px 9px 22px -1px rgba(0,0,0,0.75);
+}
+

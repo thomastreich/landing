@@ -1,0 +1,33 @@
+#footer {
+  background-image: url('https://www.boutique-univers-esoterique.com/images/bougie_rituel_blanc.jpg');
+  width: 1400px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  background-size: cover;
+  padding: 0px;
+  background-color: #2B2B2B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+li {
+  display: inline-block;
+  margin-left: 20px;
+  align-items: center;
+  }
+
+  i {
+    font-size: 30px;
+    color: #6BDE89;
+  }
+
+  #footer p {
+    color: grey;
+  }
+
+  li .opaque {
+    opacity: 0;
+  }
